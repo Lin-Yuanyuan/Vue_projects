@@ -27,6 +27,7 @@ New_ThinkJS
 
 
 移动端：http://curiosity.daily.com:+端口
+
 后台管理系统：http://curiosity.daily.com:+端口+/admin/main
 
 
