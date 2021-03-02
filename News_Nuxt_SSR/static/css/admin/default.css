@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    vertical-align: bottom;
+    list-style-type: none;
+    text-decoration: none;
+}
+.header{
+    margin: 0;
+    padding: 0;
+    z-index: 9;
+}
+
+.asidemain{
+    top: 60px;
+    position: relative;
+    width: 100%;
+    height: 100%;
+  
+}
+
+
+.boxasidemain{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    clear: both;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.el-menu {
+    border-right: 0;
+}
+
+.el-menu.el-menu--horizontal {
+    box-shadow: 0 0 4px #06c;;
+}

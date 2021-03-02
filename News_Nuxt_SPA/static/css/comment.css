@@ -1,0 +1,38 @@
+.comment-reply-content-maxbox{
+    padding: 10px 15px;
+}
+.comment-user{
+    color: #000;
+  }
+  .comment-time{
+      padding-left: 10px;
+  }
+  .comment-reply-header{
+      padding: 10px 0;
+  }
+.comment-reply-headerimg{
+    float: left;
+  }
+.comment-reply-header-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+}
+.reply-content-content-box{
+    padding: 10px 0;
+}
+.comment-reply-avatar{
+    float: left;
+    /* padding: 10px 0; */
+}
+.reply-content-box{
+    /* overflow: hidden; */
+    /* padding-left: 10px; */
+    margin-left:42px;
+}
+.comment-content-CommentContent{
+    /* 自动换去 */
+    white-space:normal;
+    word-break:break-all
+}

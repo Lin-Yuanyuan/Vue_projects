@@ -1,0 +1,37 @@
+.search-maxbox {
+    padding: 15px;
+  }
+  .el-input__inner{
+    background-color: #eee;
+    border: none;
+  }
+  .search-result{
+    line-height: 50px;
+    border-bottom: 1px solid rgb(211, 207, 207);
+    font-size: 13px;
+  }
+
+  .search-result-item{
+    padding: 5px 0;
+    width: 100%;
+    height: 70px;
+    border-bottom: 1px solid rgb(211, 207, 207);
+  }
+  .search-result-content{
+    /* padding: 20px 0; */
+   /* background-color: rgb(177, 169, 169); */
+  }
+  .search-result-title{
+    font-size: 13px;
+    font-weight: bold;
+    line-height:1.5;
+    padding: 5px 0;
+  }
+.search-result-category{
+  float: left;
+  color: rgb(131, 130, 130);
+}
+  .search-result-time{
+    float: right;
+    color: rgb(131, 130, 130);
+  }

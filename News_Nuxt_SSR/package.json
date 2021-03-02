@@ -1,0 +1,28 @@
+{
+  "name": "News_Vue",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "core-js": "^3.6.5",
+    "element-ui": "^2.13.2",
+    "nuxt": "^2.14.6",
+    "save": "^2.4.0",
+    "swiper": "^6.4.5",
+    "vue-awesome-swiper": "^4.1.1",
+    "wangeditor": "^4.6.2"
+  },
+  "devDependencies": {},
+  "config": {
+    "nuxt": {
+      "host": "curiosity.daily.com",
+      "port": "3000"
+    }
+  }
+}

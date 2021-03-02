@@ -1,0 +1,80 @@
+*{
+    vertical-align: bottom;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.RegisterBox{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: url('~@/static/images/bg.jpg') no-repeat center bottom fixed;
+    background-size: cover;
+    font-size: 14px;
+    
+}
+
+.RegisterMain{
+    width: 280px;
+    height: 280px;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.2);
+    top: 50%;
+    margin-top: 150px; 
+    padding: 30px;
+}
+
+.reginput{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    font-size: 14px;
+    height: 40px;
+    line-height: 40px;
+    width: 250px;
+    padding: 0 15px;
+    border: 1px solid #CCC;
+    border-radius: 6px;
+}
+
+.regdiv{
+    width: 280px;
+    height: auto;
+}
+
+.regdivinp{
+    float: left;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    font-size: 14px;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 15px;
+    border: 1px solid #CCC;
+    border-radius: 6px;
+}
+
+.regdivvercode{
+    float: right;
+    height: 40px;
+    width: 70px;
+    cursor: pointer;
+    position: relative;
+    background-color: rgb(210, 228, 210);
+    border-radius: 6px;
+}
+
+
+.RegButton{
+    display:block;
+    margin-top: 40px;
+    margin-left:auto;
+    margin-right:auto;
+    width: 100%;
+    height: 40px;
+    border-radius: 6px;
+    border-color: #ffffff;
+} 

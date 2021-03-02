@@ -1,0 +1,29 @@
+{
+  "name": "News_React_SPA",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.5",
+    "@nuxtjs/proxy": "^2.1.0",
+    "axios": "^0.21.1",
+    "core-js": "^3.6.5",
+    "element-ui": "^2.13.2",
+    "nuxt": "^2.14.6",
+    "vuex-persist": "^3.1.3"
+  },
+  "devDependencies": {
+    "vuex-persistedstate": "^4.0.0-beta.3"
+  },
+  "config": {
+    "nuxt": {
+      "host": "curiosity.daily.com",
+      "port": "3000"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+.curiosity_details-cover-img{
+    width: 100%; 
+    height: 160px; 
+}
+.curiosity_details_maxbox{
+    padding: 10px 15px;
+    /* background: rgb(183, 195, 231); */
+}
+
+.details-header-icontext{
+    color: #000;
+    margin-left: 3px;
+}
+
+.details-details-title{
+    font-size: 16px;
+}
+.details-details-time{
+    float: right;
+}
+.content-header{
+  text-align: center;
+  clear: both;
+ padding: 10px 0;
+  font-size: 14px;
+  color: rgb(136, 129, 129);
+}
+.window-content{
+    line-height: 20px;
+    font-size: 13px;
+}
+.main-window a{
+    color: #000;
+    border-bottom: 1px solid  #ffc81f;
+}

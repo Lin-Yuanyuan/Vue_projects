@@ -1,0 +1,23 @@
+.article-footer-maxbox{
+    width: 100%;
+     margin: 0 auto;
+    
+}
+.article-footer-icon-box{
+    overflow: hidden;
+    padding: 10px 15px;
+    
+}
+.article-footer-icon-fanhui{
+    float: left;
+}
+
+.article-footer-iconitem{
+    
+    float: right;
+}
+.article-footer-icon{
+    margin: 0;
+    display: inline;
+    padding: 0 10px 0 10px;
+}
