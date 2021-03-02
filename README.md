@@ -14,7 +14,7 @@ News_Nuxt_SPA、News_Nuxt_SSR 运行：npm run dev
 New_ThinkJS 运行：npm start
 
 
-移动端效果图
+
 ![image](https://user-images.githubusercontent.com/75324169/109639815-9d518200-7b8a-11eb-8d0e-c3be3e404710.png)
 
 
