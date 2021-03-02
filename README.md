@@ -8,7 +8,7 @@ News_Nuxt_SSR  后台管理系统
 New_ThinkJS   后端
 
 News_Nuxt_SPA、News_Nuxt_SSR、New_ThinkJS
-下载依赖: npm install
+安装依赖: npm install
 
 News_Nuxt_SPA、News_Nuxt_SSR 
 运行：npm run dev
