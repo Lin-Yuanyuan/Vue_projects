@@ -12,13 +12,7 @@ New_ThinkJS 运行：npm start
 ![image](https://user-images.githubusercontent.com/75324169/109639815-9d518200-7b8a-11eb-8d0e-c3be3e404710.png)
 ![image](https://user-images.githubusercontent.com/75324169/109640882-fcfc5d00-7b8b-11eb-9ca5-8cf5e3b59237.png)
 ![image](https://user-images.githubusercontent.com/75324169/109641024-303eec00-7b8c-11eb-8ed1-872f5323ebe2.png)
-![Uploading image.png…]()
-![Uploading image.png…]()
 
-
-后台管理效果图
-![Uploading image.png…]()
-![Uploading image.png…]()
 
 
 
