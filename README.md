@@ -21,6 +21,11 @@ New_ThinkJS
 
 打开数据库管理工具，导入数据库webnewsdb 开启数据库服务
 
+配置本地域名
+![image](https://user-images.githubusercontent.com/75324169/109649748-4bfbbf80-7b97-11eb-8aab-0b1d4d47584e.png)
+![image](https://user-images.githubusercontent.com/75324169/109649906-79486d80-7b97-11eb-810d-ea999245e6db.png)
+
+
 移动端：http://curiosity.daily.com:+端口
 后台管理系统：http://curiosity.daily.com:+端口+/admin/main
 
